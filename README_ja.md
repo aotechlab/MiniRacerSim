@@ -1,5 +1,10 @@
 # MiniRacerSim
 
+v0.2-beta を公開しました！
+
+ダウンロードはこちら：
+https://github.com/aotechlab/MiniRacerSim/releases
+
 ![screenshot](docs/screenshot.png)
 
 MiniRacerSim は、カスタムトラック上での車両挙動を可視化・解析できる、軽量なミニレーサー（1:32スケール）シミュレーションツールです。
