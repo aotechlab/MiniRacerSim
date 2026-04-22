@@ -7,7 +7,7 @@
 Download here:
 https://github.com/aotechlab/MiniRacerSim/releases
 
-![screenshot](docs/screenshot.png)
+![demo](docs/demo.gif)
 
 MiniRacerSim is a lightweight Mini Racer (1:32 scale racer) simulation tool that allows you to visualize and analyze vehicle behavior on custom tracks.
 
