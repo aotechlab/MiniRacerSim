@@ -2,23 +2,49 @@
 
 ## 🚀 Latest Release
 
-**v0.2-beta is now available!**
+**v0.3-beta is now available!**
 
 Download here:
 https://github.com/aotechlab/MiniRacerSim/releases
 
 ![demo](docs/demo.gif)
 
-MiniRacerSim is a lightweight Mini Racer (1:32 scale racer) simulation tool that allows you to visualize and analyze vehicle behavior on custom tracks.
+A Mini 4WD (1:32 Scale Racer) simulation and analysis platform.
+Simulate vehicle performance, analyze lap times, visualize onboard driving conditions, and evaluate setup changes before building your machine.
+
+## ✨ What's New in v0.3
+New Features
+* Improved Onboard View Visualization
+* Roller Performance Simulation
+* Improved Battery Presets
+* Crash Detection & Visualization
+* Improved Physics Engine
 
 ---
 
 ## 🚀 Features
 
-* Real-time simulation of Mini Racer behavior
-* Track-based physics simulation
-* Simple UI running in your browser
-* No installation required (standalone EXE)
+Vehicle Setup
+* Multiple motor presets
+* Multiple battery presets
+* Gear ratio selection
+* Tire diameter selection
+* Vehicle mass adjustment
+* Roller performance simulation
+
+Simulation
+* Interactive course viewer
+* Real-time vehicle position tracking
+* Onboard camera view
+* Lap time overlay
+* Speed / RPM / Temperature gauges
+* Crash location visualization
+
+Analysis
+* Lap-by-lap results
+* Minimum / maximum speed analysis
+* Custom course evaluation
+* Setup comparison support
 
 ---
 
@@ -26,6 +52,7 @@ MiniRacerSim is a lightweight Mini Racer (1:32 scale racer) simulation tool that
 
 * Windows 10 / 11 (64-bit)
 * No Python installation required
+* Modern browser (Chrome / Edge recommended)
 
 ---
 
