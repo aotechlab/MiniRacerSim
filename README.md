@@ -68,10 +68,15 @@ Analysis
 
 ## ⚠️ Important Notes
 
-* Do NOT run the EXE inside the ZIP file
-* Windows may show a security warning:
-  * Click **"More info" → "Run anyway"**
-* First launch may take a few seconds
+* Do NOT run the EXE inside the ZIP archive
+* Always extract the ZIP file first
+* Windows may display a security warning
+
+Click:
+
+More info → Run anyway
+
+* First launch may take several seconds
 
 ---
 
@@ -84,20 +89,26 @@ Analysis
 
 ## 🧪 Current Status
 
-This is a **Beta version**.
+This project is currently in Public Beta.
 
-* Features may change
-* Bugs may exist
-* Feedback is welcome!
+Current focus:
+
+* Physics model refinement
+* Cornering dynamics
+* Roller behavior modeling
+* Track compatibility improvements
+
+Feedback, bug reports, and feature requests are highly appreciated.
 
 ---
 
 ## 🧩 Included Components
 
-* Simulation engine (Python + FastAPI)
-* Web UI (HTML/JS)
-* Sample track data (CSV)
-* Onboard video
+* Physics Simulation Engine
+* FastAPI Backend
+* Web UI Dashboard
+* Sample Track Data
+* Onboard View Images
 
 ---
 
@@ -109,11 +120,23 @@ This is a **Beta version**.
 
 ## 📌 Roadmap
 
-* [ ] Performance improvements
-* [ ] More track variations
-* [ ] Parameter tuning UI
-* [ ] Multi-car simulation (race mode)
-* [ ] Export / analysis tools
+Short Term
+* [ ] Speed profile export
+* [ ] Improved crash analysis
+* [ ] Additional track presets
+* [ ] Better motor heat model
+
+Mid Term
+* [ ] Custom motor editor
+* [ ] Custom battery editor
+* [ ] Setup save/load feature
+* [ ] Performance comparison mode
+
+Long Term
+* [ ] 3D course viewer
+* [ ] AI setup optimization
+* [ ] Race simulation mode
+* [ ] Multi-car simulation
 
 ---
 
@@ -137,7 +160,7 @@ Contributions, ideas, and feedback are welcome!
 
 ## 👤 Author
 
-Created by Masaaki Furukawa
+Masaaki Furukawa
 
 ---
 
